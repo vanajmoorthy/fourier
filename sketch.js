@@ -39,7 +39,7 @@ function mouseReleased() {
 }
 
 function setup() {
-	createCanvas(800, 600);
+	createCanvas(windowWidth, windowHeight);
 	state = -1;
 }
 
